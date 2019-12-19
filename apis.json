@@ -1,0 +1,42 @@
+{
+    "name": "RIXML",
+    "description": "<p>The RIXML Standards Suite is made up of the following XML standards: RIXML Research Standard, Interactions Standard, RIXML Analyst Roster Standard, and RIXML Coverage Standard. These standards were created by a consortium of buy-side, sell-side, and vendor firms, and are modified as needed to address changes in the marketplace and to incorporate feedback from its member firms stemming from implementation projects and substantial exposure to real instance documents produced industry-wide. Using the RIXML standard enables firms to improve the process of categorizing, aggregating, comparing, sorting, searching, and distributing global financial research, and of accurately describing interactions to facilitate compliance with MiFID II.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/rixml.png",
+    "tags": [
+        "definitions",
+        "financial",
+        "have api",
+        "standards"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rixml\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RIXML",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/rixml.png",
+            "humanURL": "http:\/\/www.rixml.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rixml-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rixml-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.rixml.org"
+        }
+    ]
+}
